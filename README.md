@@ -6,11 +6,11 @@
      
 2. Why was Pluto demoted from being a planet?
 
-   Answer: 
+   Answer: hasn't cleared the neighbourhood around its orbit
    
 3. Which astronomical body in our Solar System has the largest gravitational pull and what is its gravitational pull?
 
-   Answer: 
+   Answer: jupyter
      
 4. Come up with a mnemonic to remember the 5 moons of Pluto and write it below.
    
